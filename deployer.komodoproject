@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="f239815a-d74f-48db-84bb-893a45f6baab" kpf_version="5" name="deployer.komodoproject">
+<preference-set idref="f239815a-d74f-48db-84bb-893a45f6baab" id="project" preftype="project">
+  <string id="pythonDefaultInterpreter">c:\python27\python.exe</string>
+  <string id="pythonExtraPaths">C:\Python27\Lib\site-packages;P:\GT-ROOT\config\gt-site;P:\GT-ROOT\config;P:\GT-ROOT\config\gt-site\win</string>
+  <string id="userEnvironmentStartupOverride">GT_DEV_ROOT=%25USERPROFILE%25/dev
+GT_REPO_ROOT=dev
+GT_REPO_SERVER=git-server
+GT_REPO_TOKEN=LssRnHk8PuZgB35c2SJ5
+GT_REPO_USER=git
+GT_ROOT=P:/GT-ROOT
+GT_APP_MNT=%25GT_ROOT%25
+GT_CONFIG_MNT=%25GT_ROOT%25
+GT_BUILD_ROOT=%25GT_APP_MNT%25/builds
+GT_CONFIG_ROOT=%25GT_CONFIG_MNT%25/config
+GT_PACKAGE_ROOT=%25GT_APP_MNT%25/packages
+GT_CONFIG_SERVER=%25GT_CONFIG_ROOT%25/cfg-db
+GT_CONFIG_DB=%25GT_CONFIG_ROOT%25/cfg-db
+GT_CONFIG_CLIENT=%25GT_CONFIG_ROOT%25/gtcfg
+</string>
+</preference-set>
+</project>
